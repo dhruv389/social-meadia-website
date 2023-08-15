@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Poppins:wght@300;400;500;600&display=swap");
+@import url("../Images/https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Poppins:wght@300;400;500;600&display=swap");
 
 :root {
     --primary-color-hue :252;
@@ -352,23 +352,23 @@ main .container .left .profile{
     }
 
     .middle .stories .story:nth-child(1){
-        background: url("boy10.jpg") no-repeat center center/cover;
+        background: url("../Images/boy10.jpg") no-repeat center center/cover;
     
     }
     .middle .stories .story:nth-child(2){
-        background: url("boy12.webp") no-repeat center center/cover;
+        background: url("../Images/boy12.webp") no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(3){
-        background: url("boy17.jpg") no-repeat center center/cover;
+        background: url("../Images/boy17.jpg") no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(4){
-        background: url("boy15.jpg") no-repeat center center/cover;
+        background: url("../Images/boy15.jpg") no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(5){
-        background: url("boy16.jpeg") no-repeat center center/cover;
+        background: url("../Images/boy16.jpeg") no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(6){
-        background: url("girl8.png") no-repeat center center/cover;
+        background: url("../Images/girl8.png") no-repeat center center/cover;
     }
     .middle .stories .story{
         transition: .4s;
